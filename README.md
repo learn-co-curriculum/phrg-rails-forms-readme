@@ -111,4 +111,4 @@ So, when would you choose one over the other? Below are some real world examples
 
 * `form_tag` - this works well for forms that are not directly connected with models. For example, let's say that our blog posting application has a search engine. The search form would be a great fit for using a `form_tag`.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-forms-readme' title='Form_tag'>Form_tag</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Rails Forms Overview</p>

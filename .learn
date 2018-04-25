@@ -7,3 +7,5 @@ tags:
   - fields_for
   - collection_check_boxes
   - collection_select
+
+parent_template: git@github.com:learn-co-curriculum/rails-forms-readme.git
